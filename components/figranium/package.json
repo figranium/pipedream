@@ -1,0 +1,19 @@
+{
+  "name": "@pipedream/figranium",
+  "version": "0.1.0",
+  "description": "Pipedream Figranium Components",
+  "main": "figranium.app.mjs",
+  "keywords": [
+    "pipedream",
+    "figranium"
+  ],
+  "homepage": "https://pipedream.com/apps/figranium",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@figranium/sdk": "^0.1.0",
+    "@pipedream/platform": "^3.4.0"
+  }
+}
