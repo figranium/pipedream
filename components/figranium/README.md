@@ -1,6 +1,6 @@
 # Overview
 
-[Figranium](https://figranium.dev) is a self-hosted browser automation and web scraping platform. With the Figranium API, you can build workflows that:
+[Figranium](https://figranium.dev) is a browser automation and web scraping platform. With the Figranium API, you can build workflows that:
 
 - Trigger and manage automation tasks (scrape, agent, and headful modes)
 - Inspect execution history and results
