@@ -39,6 +39,12 @@ export default {
         },
       ],
     },
+    cabinetId: {
+      type: "string",
+      label: "Cabinet ID",
+      description: "Cabinet ID format is a string identifier (e.g. `cab_123456789`). Cabinet used for intercepted downloads and Upload actions that omit their own Cabinet ID. Leave blank to use default Cabinet. Obtain values from the Figranium Cabinets dashboard or Cabinets API.",
+      optional: true,
+    },
   },
   methods: {
     _baseUrl() {
